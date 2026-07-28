@@ -1,1 +1,1 @@
-# time-regression-forecasting-model
+# nintendo-time-regression-forecasting-model
